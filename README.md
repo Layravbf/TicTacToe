@@ -1,6 +1,10 @@
-# Desafio01
-
+# TicTacToe
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
+
+![Imgur](https://i.imgur.com/GyCmeTp.png)
+
+### Objetivo
+-Treinar os conceitos de componentes, templates, data binding
 
 ## Development server
 
